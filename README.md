@@ -24,8 +24,7 @@ A terminal-based billing system built in Python for a soda shop.
 In **VS Code**:
 
 - Open the folder containing `shop_billing.py`
-- Click the **green Run button** at the top right (▶️)
-
+- Click the **Run button** at the top left
 Or run in terminal:
 
 python3 shop_billing.py
